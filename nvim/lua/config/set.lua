@@ -2,6 +2,9 @@
 vim.opt.nu = true
 vim.opt.relativenumber = true
 
+-- Maintain X amount of lines at end
+vim.opt.scrolloff = 10
+
 -- tab settings
 vim.opt.tabstop = 4
 vim.opt.softtabstop = 4

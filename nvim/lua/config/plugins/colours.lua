@@ -5,5 +5,5 @@ return {
   opts = {},
   config = function()
     vim.cmd("colorscheme tokyonight")
-  end
+  end,
 }

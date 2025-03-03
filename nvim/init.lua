@@ -1,2 +1,1 @@
-require("lucas")
-
+require("config.init")
